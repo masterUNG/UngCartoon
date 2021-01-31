@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848770075770",
+    "project_id": "ungcartoon",
+    "storage_bucket": "ungcartoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848770075770:android:fc453380ddfbe307debfc3",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungcartoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848770075770-3aejhh352l2vv66fd5ubuqemg44hsr7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7NJUAqL8ro-v8K08E0Jpm3bD31ef2oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848770075770-3aejhh352l2vv66fd5ubuqemg44hsr7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
